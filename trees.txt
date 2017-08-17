@@ -1,0 +1,2 @@
+In this forest, there are 100 trees and they are all Tall.
+In this forest, there are 0 trees and they are all Dead.
